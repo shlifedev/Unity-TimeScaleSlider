@@ -6,7 +6,7 @@
 
 ## How to use it?
 
- Just Add Conponent'UnityTimeSlider' 
+ Just Add Any Object UnityTimeSlider Component.
  
 ## ScreenShot
 ![Instruction-1](https://github.com/shlifedev/UnityTimeSlider/blob/master/sample.gif)
