@@ -1,7 +1,7 @@
 ## What is this ?
 
- Unity team recently update UIElement in Unity 2019.1 :heart:
- I make simply timeslider using the UI Element. >:
+ Unity team recently update UIElement in Unity 2019.1.
+ I make simply timeslider using the UI Element. 
  
 
 ## How to use it?
