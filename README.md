@@ -1,5 +1,5 @@
  
- yeah. it is `scene view` gui hook example with ui helement :)
+ yeah. it is `scene view` gui hook example with ui element :)
  
  
 ## ScreenShot
